@@ -13,6 +13,8 @@ Dashboard Preview
 **Recommendations Page:**
 ![Recommendations](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Recommendations.png)
 
+![Dashboard Preview](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Dashboard_preview.gif)
+
 📌 Problem Statement
 The organization is experiencing a high employee attrition (resignation) rate. The HR department lacks clear data visualizations to identify the true root causes, making retention strategies difficult to target and risking wasted costs.
 
