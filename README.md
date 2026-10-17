@@ -1,6 +1,17 @@
 📊 HR Employee Attrition Dashboard (Power BI)
 
-![Dashboard Preview](3_Images/dashboard_preview.gif)
+Dashboard Preview
+**Overview Page:**
+![Overview](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Overview.png)
+
+**Attrition Drivers Page:**
+![Drivers](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Attrition%20Drivers.png)
+
+**Demographics Page:**
+![Demographics](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Demographic.png)
+
+**Recommendations Page:**
+![Recommendations](https://github.com/Naeemsiddiqi/HR-Attrition-Analysis-PowerBI/raw/main/Image/Recommendations.png)
 
 📌 Problem Statement
 The organization is experiencing a high employee attrition (resignation) rate. The HR department lacks clear data visualizations to identify the true root causes, making retention strategies difficult to target and risking wasted costs.
